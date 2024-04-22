@@ -1,6 +1,8 @@
 //Primitive
 // 7types: String, Number, Boolean, Null, undefined,Symbol,BigInt
 
+//Javascript is a dynamically typed language
+
 //Reference (Non primitive)
 //Array , Objects, Functions
 const score = 100;
